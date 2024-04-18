@@ -8,16 +8,15 @@ Proyecto Análisis de flujo de vehículos a través del peaje
 
 ## Tabla de contenido
 
- - [Algoritmos implementados](https://github.com/Ingenieco/dane/tree/main/codigos_2024)
-    - [HBOS](https://github.com/Ingenieco/dane/blob/main/codigos_2024/HBOS_emicron.ipynb)
- - [Data original](https://github.com/Ingenieco/dane/tree/main/datos_crudos)
-    - EMICRON - Establecimientos
-    - EMICRON - Puestos móviles
+ - [Descripción](https://github.com/Ingenieco/dane/tree/main/codigos_2024)
+ - [Código](https://github.com/Ingenieco/uao_gad/blob/main/Proyecto_Final.ipynb)
  - [Resultados](https://github.com/Ingenieco/dane/tree/main/datos_resultados)
 
 
 ## Autores
-
+- Andrés Tabango
+- Luz María Redondo
+- Héctor Gómez
 - [@ingenieco](https://github.com/Ingenieco)
 
 
